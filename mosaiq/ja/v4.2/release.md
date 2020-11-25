@@ -1,9 +1,12 @@
-% スマートフォン向けパズルゲーム「MOSAIQ」最新アップデート公開のお知らせ
+%lang ja
+%title スマートフォン向けパズルゲーム「MOSAIQ」最新アップデート公開のお知らせ
+%css ../../mosaiq.css
+%favicon ../../mosaiq-favicon.png
 
 2020年11月25日(水)
 報道関係各位
 towerb.com
-[info@towerb.com](mailto:info@towerb.com)
+[mailto:info@towerb.com](info@towerb.com)
 
 # スマートフォン向けパズルゲーム「MOSAIQ」の最新アップデートを公開
 
@@ -19,11 +22,13 @@ towerb.com
 
 ### GooglePlayStoreダウンロードページ
 
-[https://play.google.com/store/apps/details?id=com.towerb.roco](https://play.google.com/store/apps/details?id=com.towerb.roco)
+[https://play.google.com/store/apps/details?id=com.towerb.roco]
 
 ### AppStoreダウンロードページ
 
-[https://apps.apple.com/jp/app/mosaiq/id1532791677](https://apps.apple.com/jp/app/mosaiq/id1532791677)
+[https://apps.apple.com/jp/app/mosaiq/id1532791677]
+
+[../../mosaiq-icon-128x128.png](![../../mosaiq-icon-128x128.png])
 
 # 「MOSAIQ」とは？
 
@@ -34,18 +39,22 @@ MOSAIQは新しくてユニークな、スマートフォン用に作られた�
 ぜひこの新しいゲームを遊んでみて下さい。
 (ストアの説明文より)
 
-![カバー画像](mosaiq_feature.png)
+[../../mosaiq-feature.png](![../../mosaiq-feature.png])
 
 ## ゲーム説明
 
-![ゲーム画面](mosaiq_game_ja.png) ![遊び方](mosaiq_instruction_1_ja.png) ![高度な遊び方](mosaiq_instruction_2_ja.png)
+[mosaiq_game_ja.png](![mosaiq_game_ja.png]) \
+[mosaiq_instruction_1_ja.png](![mosaiq_instruction_1_ja.png]) \
+[mosaiq_instruction_2_ja.png](![mosaiq_instruction_2_ja.png])
 
 * ピースをタップすると90度回転します。
 * 向かい合う三角形の色を合わせるとピースが消えます。
 * 消えると上のピースが落ちてきて、連鎖してさらに消えることもあります。大量に消すチャンス！
 * すばやく連続で複数のピースを回転させることで、たくさん繋げることができます。繋いだ数が多いほど高得点！
 
-![タイトル画面](mosaiq_title_ja.png) ![ランキング](mosaiq_ranking_ja.png) ![レベル](mosaiq_level_ja.png)
+[mosaiq_title_ja.png](![mosaiq_title_ja.png]) \
+[mosaiq_ranking_ja.png](![mosaiq_ranking_ja.png]) \
+[mosaiq_level_ja.png](![mosaiq_level_ja.png])
 
 * ゲームモードは次々とピースを消してレベルを進めるアーケード、決められたピース数で時間内に高得点を狙うスコアアタックの2種類があります。
 * ランキングでは世界中のユーザーとスコアを競えます。

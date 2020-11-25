@@ -19,16 +19,16 @@ h3 {
     margin: 0.2em 0em;
     padding: 0.2em 0em;
 }
-img {
-    width: 30%;
-}
 header {
     display: none;
 }
 p {
-    margin: 0em;
+    margin: 0.5em 0em;
     padding: 0em;
 }
 figcaption {
     display: none;
+}
+img {
+    max-width: 30%;
 }
