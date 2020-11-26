@@ -4,14 +4,15 @@ html {
     background-color: white;
 }
 h1 {
-    border: solid blue;
-    border-width: 0px 0px 1px 1em;
+    color: white;
+    background-color: black;
     margin: 0.5em 0em;
-    padding: 0.1em 0.5em;
+    padding: 0.1em 1em;
+    text-align: center;
 }
 h2 {
-    border: solid blue;
-    border-width: 0px 0px 1px 0.5em;
+    border: solid black;
+    border-width: 0px 0px 1px 1em;
     margin: 0.5em 0em;
     padding: 0.1em 0.5em;
 }
@@ -19,16 +20,10 @@ h3 {
     margin: 0.2em 0em;
     padding: 0.2em 0em;
 }
-img {
-    width: 20%;
-}
-header {
-    display: none;
-}
 p {
     margin: 0em;
     padding: 0em;
 }
-figcaption {
-    display: none;
+a {
+    color: black;
 }
