@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project Id="6605372B-1BBB-49FD-ACD1-F3CE11D601BF" Name="towerb" Show="1" Comment="">
+  <Layout Id="16D15B0F-25D0-4DD8-8507-6EDF8A1A8646" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="256" Size.y="256" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+  <Project Id="9AD1FE7A-1B05-4CD2-B123-DE0DC845AE2B" FileName="towerb.wxdraw"/>
+  <Palette Id="53C1BA22-889C-4829-8BA3-051C7379266D">
+    <Color Id="09EF1B98-C055-4064-92EC-8093AA0F4902" Name="Grid" Color="#80808080"/>
+    <Color Id="439A650A-201A-404E-A5F0-5D7C74316337" Name="Pen" Color="#000000"/>
+    <Color Id="875B1020-15BC-41DA-9B2B-0717033464CD" Name="Brush" Color="#FFFFFF"/>
+    <Color Id="41FFDD12-B10F-4D0C-9649-19DF325DEB80" Name="Icon" Color="#FF8000"/>
+    <Pen Id="7E6C9774-2846-42CE-AABE-ED83967FDE91" Name="Transparent" Color="" Width="1" Style="Solid" Cap="Round" Join="Round"/>
+    <Pen Id="374A3E0C-496B-4EA5-91D8-A7F56FCEF6E6" Name="Grid" Color="09EF1B98-C055-4064-92EC-8093AA0F4902" Width="1" Style="Solid" Cap="Round" Join="Round"/>
+    <Pen Id="61EFAFA6-D34D-4E0C-8AFE-80CA2E31FBF0" Name="Default" Color="439A650A-201A-404E-A5F0-5D7C74316337" Width="1" Style="Solid" Cap="Round" Join="Round"/>
+    <Pen Id="154F937A-C1E9-400B-B339-864838C81534" Name="Pen_1" Color="875B1020-15BC-41DA-9B2B-0717033464CD" Width="1" Style="Solid" Cap="Round" Join="Round"/>
+    <Brush Id="A1D76E6A-92A0-42C2-89F5-E19AFF4FEBC7" Name="Transparent" Color="" Direction="0"/>
+    <Brush Id="56B3D5B3-5B26-4007-8EED-88667597E39C" Name="Default" Color="875B1020-15BC-41DA-9B2B-0717033464CD" Direction="0"/>
+    <Brush Id="65330F51-E70D-4606-A417-E21485A3B9CB" Name="Brush_1" Color="439A650A-201A-404E-A5F0-5D7C74316337" Direction="0"/>
+    <Brush Id="8E11E3DF-312E-4A70-B8DE-67EBA8659C71" Name="Icon" Color="41FFDD12-B10F-4D0C-9649-19DF325DEB80" Direction="0"/>
+    <Font Id="ED69B4D0-5CD6-4CB7-AC6E-FFA102902831" Name="タワーブ" Font="2;0;0;43;&lt;plist version=&quot;1.0&quot;&gt;&lt;dict&gt;&lt;key&gt;NSFontNameAttribute&lt;/key&gt;&lt;string&gt;FZGonta-kana&lt;/string&gt;&lt;key&gt;NSFontSizeAttribute&lt;/key&gt;&lt;real&gt;96&lt;/real&gt;&lt;/dict&gt;&lt;/plist&gt;"/>
+    <Font Id="E13D3852-B4B7-47E4-9D7E-FE0C1C5C38E7" Name="towerb" Font="2;0;0;43;&lt;plist version=&quot;1.0&quot;&gt;&lt;dict&gt;&lt;key&gt;NSFontNameAttribute&lt;/key&gt;&lt;string&gt;FZGonta-kana&lt;/string&gt;&lt;key&gt;NSFontSizeAttribute&lt;/key&gt;&lt;real&gt;32&lt;/real&gt;&lt;/dict&gt;&lt;/plist&gt;"/>
+  </Palette>
+  <Pen Id="B2E4EF84-3DF3-439E-B81D-F2A008CFE668" Pen="61EFAFA6-D34D-4E0C-8AFE-80CA2E31FBF0"/>
+  <Brush Id="0FFB9211-D76E-4C24-98DA-EAC80A057A15" Brush="56B3D5B3-5B26-4007-8EED-88667597E39C"/>
+  <Grid Id="" Show="1" Snap="0" Size.x="32" Size.y="32" Offset.x="0" Offset.y="0" Pen="374A3E0C-496B-4EA5-91D8-A7F56FCEF6E6"/>
+  <View Id="9750635F-E857-4E08-A206-90FE64D7B386"/>
+  <Container Id="A524A5DB-8C11-4799-80BD-E07F5148E8B6">
+    <Group Id="6834C51C-BCD0-4312-8D96-EE1E3DD37AB7" Name="素材" Show="1" Comment="">
+      <Layout Id="8E0600A7-A525-444F-83EC-0D63DABB8772" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="256" Size.y="256" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+      <Container Id="068ED09D-A934-4310-B3A9-2A8A9633CA6C">
+        <View Id="55B46F1C-81FC-4E00-9D03-7C1497ABADB3" Name="タワーブ" Show="1" Comment="">
+          <Layout Id="1BF67ACE-E20D-47D6-BFCE-474CBFD810E0" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="384" Size.y="96" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="CD9770BC-044A-49FA-8F61-7F501BA0DAF9"/>
+          <Container Id="8069C03F-CEF8-446A-AAF9-AD1D1751305D">
+            <Text Id="61179D02-F953-4368-848C-762C21AE8FB7" Name="Text" Show="1" Comment="">
+              <Layout Id="11F73EBB-3109-4C53-A048-10F8CBCABA7C" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="384" Size.y="96.0001945495605469" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Text Id="A0C37D8E-57B5-424E-9FF2-91A2D7313010" Font="ED69B4D0-5CD6-4CB7-AC6E-FFA102902831" Color="439A650A-201A-404E-A5F0-5D7C74316337" Text="タワーブ" Alignment.x="0.5" Alignment.y="0.5" AutoSize="1"/>
+            </Text>
+          </Container>
+        </View>
+        <View Id="396091D3-8ECD-4F17-A619-4B4997BE1E8E" Name="towerb.com" Show="1" Comment="">
+          <Layout Id="DE245710-26E5-429C-9A10-2ECC655020DE" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="276" Size.y="32" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="1603D06A-E1C0-4202-9907-ECF36A696903"/>
+          <Container Id="08FD0613-2FD2-4743-A109-3B2F07460BC1">
+            <Text Id="06AB49A8-690D-4645-8007-00F72285C732" Name="Text" Show="1" Comment="">
+              <Layout Id="44AF21FB-76F9-47FF-9024-947BE39E2486" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="275.8400000000000318" Size.y="32.0000648498535156" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Text Id="4D3861AE-D4D1-4A25-AFDE-D73BA9959F9C" Font="E13D3852-B4B7-47E4-9D7E-FE0C1C5C38E7" Color="439A650A-201A-404E-A5F0-5D7C74316337" Text="towerb.com" Alignment.x="0.5" Alignment.y="0.5" AutoSize="1"/>
+            </Text>
+          </Container>
+        </View>
+        <View Id="865C0861-A861-45EB-BFFD-EC6114B4F2BA" Name="T" Show="1" Comment="">
+          <Layout Id="C2E52290-AECC-4088-AE6E-F1F64E0917D0" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="24" Size.y="24" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="6E7E0524-C097-4B68-B692-7854436FAC6D"/>
+          <Pen Id="792A3CB7-9648-4FC2-B5F2-C2D10277E826" Pen="7E6C9774-2846-42CE-AABE-ED83967FDE91"/>
+          <Container Id="2AD7E4DE-87A5-45E1-A82F-DFC054640314">
+            <Rectangle Id="3346CEDA-9938-45D7-90C3-9BC7EF3F1403" Name="Rectangle_1" Show="1" Comment="">
+              <Layout Id="F91F1CD8-67E9-4941-8A85-FE34C5BCC62B" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="-10" Size.x="24" Size.y="4" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Rectangle Id="BB86B6F6-7A55-4259-B3B2-2924B218BE64" Round="2"/>
+            </Rectangle>
+            <Rectangle Id="B2EB31EE-60FA-4BAA-AD14-97A5935FC415" Name="Rectangle_2" Show="1" Comment="">
+              <Layout Id="B2F00E1C-25C3-44CE-AC00-0844BA61939D" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="-5" Size.x="8" Size.y="4" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Rectangle Id="192B7BAB-FACE-4867-A940-DF965F89C956" Round="2"/>
+            </Rectangle>
+            <Rectangle Id="69A6D6A5-E3AE-4036-AB0F-56689748B906" Name="Rectangle_3" Show="1" Comment="">
+              <Layout Id="EB110A00-E896-402E-B0BA-69B2EA32F526" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="-1" Pos.Absolute.y="0" Size.x="8" Size.y="4" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Rectangle Id="5694DB40-6A83-4402-BF84-D6027841BC25" Round="2"/>
+            </Rectangle>
+            <Rectangle Id="AD55AD16-1D3D-4044-8D75-FEC2C2A7AAA8" Name="Rectangle_4" Show="1" Comment="">
+              <Layout Id="F75DF3CF-050E-4427-B96D-85FB0440B4BA" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="1" Pos.Absolute.y="5" Size.x="8" Size.y="4" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Rectangle Id="8D247D21-67B7-4C5A-8415-7C530B27F325" Round="2"/>
+            </Rectangle>
+            <Rectangle Id="63C0F726-7EFF-43D4-A756-03F2428456AF" Name="Rectangle_5" Show="1" Comment="">
+              <Layout Id="43814C38-B39A-40A6-B3B4-D9161C5B0FB0" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="10" Size.x="8" Size.y="4" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Rectangle Id="D7464762-14AD-49A4-8303-17D13B8390B6" Round="2"/>
+            </Rectangle>
+          </Container>
+        </View>
+        <View Id="35899EE9-C353-49CE-80DB-0DB7B383B7DE" Name="Icon" Show="1" Comment="">
+          <Layout Id="0CD8C724-4EB5-42FB-93AA-15897AE2DF8C" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="40" Size.y="40" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="A134A362-952D-4024-B302-CD1EE7AD6F4A"/>
+          <Container Id="70C6C47D-3C93-44CC-AEB7-731ABAC05F66">
+            <Ellipse Id="93399131-35AD-4E34-AB38-9FEA75D7C03C" Name="Ellipse_1" Show="1" Comment="">
+              <Layout Id="D6C1C17F-5D20-4553-AEAF-586F92968E26" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="40" Size.y="40" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Ellipse Id="1F69C2A7-0355-40D6-B101-8FE8917B3426"/>
+              <Pen Id="FC0BE015-73A3-417A-8CD7-139A33C0D1B1" Pen="7E6C9774-2846-42CE-AABE-ED83967FDE91"/>
+              <Brush Id="8AEE37E1-1408-426E-BAA8-4097AAB444C2" Brush="8E11E3DF-312E-4A70-B8DE-67EBA8659C71"/>
+            </Ellipse>
+            <Rectangle Id="980ADB91-6617-4878-B6DB-040D73332DAC" Name="Rectangle_6" Show="0" Comment="">
+              <Layout Id="C4363CBA-D8A0-44D8-92BC-341D80E3A22B" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="40" Size.y="40" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Rectangle Id="667C13A7-BCAF-4226-82EF-D1D538C10809" Round="4"/>
+              <Pen Id="4F4DC8D0-B37F-41DC-8279-B9A6BD837852" Pen="7E6C9774-2846-42CE-AABE-ED83967FDE91"/>
+              <Brush Id="8EE75462-8D07-4AA4-9427-6DAF2230C242" Brush="8E11E3DF-312E-4A70-B8DE-67EBA8659C71"/>
+            </Rectangle>
+            <Proxy Id="1B13363F-2B93-4D91-BFA5-79085A70CB76" Name="T" Show="1" Comment="">
+              <Layout Id="AA3873AD-4CA4-4D91-BFA5-52ADCA6ABFC6" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="1" Size.x="40" Size.y="40" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Proxy Id="B200F65A-FEBD-486E-9E66-2AAC43B3795D" Node="865C0861-A861-45EB-BFFD-EC6114B4F2BA" Fit="None"/>
+              <Brush Id="9497E74E-8D6C-45F0-8715-E58D2D24C6CB" Brush="56B3D5B3-5B26-4007-8EED-88667597E39C"/>
+            </Proxy>
+          </Container>
+        </View>
+      </Container>
+    </Group>
+    <View Id="E1A4F883-76E7-4A65-9161-43BDBC9044CA" Name="ロゴ" Show="1" Comment="">
+      <Layout Id="FA1446AB-93C7-47EF-8283-7D7BA877770F" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="384" Size.y="120" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+      <View Id="4A609A5D-51DD-4849-B4C0-6A6C51B0B489"/>
+      <Container Id="3CDE447C-CB79-4D20-9C97-FE3A7442F762"/>
+    </View>
+    <View Id="9BA351F8-2ABE-4A43-83A8-2BBE4EFE2F65" Name="Full" Show="1" Comment="">
+      <Layout Id="8A7EF6EB-A61E-4629-994F-82599599449D" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="480" Size.y="128" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+      <View Id="855DEF53-2F33-48A8-82E3-5963F8B160EA"/>
+      <Container Id="3251231A-93B4-4DE7-92EC-745133D4E97E">
+        <Proxy Id="2B8BEE36-6E25-483B-A600-D7D5D50286A9" Name="Icon" Show="1" Comment="">
+          <Layout Id="144B5493-1747-4ACA-AA6D-56CFB749AB3C" Pos.Relative.x="0" Pos.Relative.y="0" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="96" Size.y="96" Alignment.x="0" Alignment.y="0" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <Proxy Id="219586FA-6121-4585-9B43-94E6BFCEC0EE" Node="35899EE9-C353-49CE-80DB-0DB7B383B7DE" Fit="Expand"/>
+        </Proxy>
+        <Proxy Id="F681A6D2-F5C7-4E53-80B9-8B0090689575" Name="タワーブ" Show="1" Comment="">
+          <Layout Id="9D80CA2E-66EE-4234-9369-2A0F98229F10" Pos.Relative.x="1" Pos.Relative.y="0" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="384" Size.y="96" Alignment.x="1" Alignment.y="0" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <Proxy Id="CAE7BB59-B10E-4CFC-8B44-6A02D63BDB02" Node="55B46F1C-81FC-4E00-9D03-7C1497ABADB3" Fit="None"/>
+        </Proxy>
+        <Proxy Id="475DE384-93CD-45F4-A8A3-F0C195886DC9" Name="towerb.com" Show="1" Comment="">
+          <Layout Id="48BFFA81-17D3-49E6-B157-EC2DD774A50A" Pos.Relative.x="0.5" Pos.Relative.y="1" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="276" Size.y="32" Alignment.x="0.5" Alignment.y="1" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <Proxy Id="51644A9B-CCDE-4E57-BCA8-3EB7DB2B0745" Node="06AB49A8-690D-4645-8007-00F72285C732" Fit="None"/>
+        </Proxy>
+      </Container>
+    </View>
+    <Group Id="242E9848-13DD-408B-9C7F-465819BA8ABF" Name="Export" Show="1" Comment="">
+      <Layout Id="65E40203-27A3-48AF-B3CB-FB2E00E23BC4" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="256" Size.y="256" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+      <Container Id="46F605D9-247A-484A-9AFD-E0A44BA34FBB">
+        <Export Id="F9CCD3CF-A838-4333-AA3B-7E229A530C9C" Name="ExportFull" Show="1" Comment="">
+          <Layout Id="B5C23352-0052-42D5-BB56-A5453A1627D4" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="512" Size.y="128" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="3B852754-9996-4152-9754-EF568AEAD6E5"/>
+          <Proxy Id="0320DE69-D8D8-40A2-8F19-510F528C0106" Node="9BA351F8-2ABE-4A43-83A8-2BBE4EFE2F65" Fit="None"/>
+          <Export Id="F201274B-D6BD-4C5B-994B-63A5E036AA6D" FileName="towerb.png"/>
+        </Export>
+        <Export Id="68F1001C-ED7C-4906-ACCD-FE93226AF14F" Name="Favicon" Show="1" Comment="">
+          <Layout Id="E0745DA4-BA0C-452C-8E4C-277A4CCA0CA5" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="32" Size.y="32" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="DE8871FE-AE62-4ADD-AA17-B286CE797B39"/>
+          <Proxy Id="1F050BC8-A82E-48A5-AB1A-85BA379B3D93" Node="35899EE9-C353-49CE-80DB-0DB7B383B7DE" Fit="Expand"/>
+          <Export Id="CD999B17-0122-4B3E-80CB-1E3E01866805" FileName="towerb-favicon.png"/>
+        </Export>
+      </Container>
+    </Group>
+  </Container>
+</Project>
