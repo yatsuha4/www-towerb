@@ -108,7 +108,7 @@
       <View Id="855DEF53-2F33-48A8-82E3-5963F8B160EA"/>
       <Container Id="3251231A-93B4-4DE7-92EC-745133D4E97E">
         <Proxy Id="2B8BEE36-6E25-483B-A600-D7D5D50286A9" Name="Icon" Show="1" Comment="">
-          <Layout Id="144B5493-1747-4ACA-AA6D-56CFB749AB3C" Pos.Relative.x="0" Pos.Relative.y="0" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="96" Size.y="96" Alignment.x="0" Alignment.y="0" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <Layout Id="144B5493-1747-4ACA-AA6D-56CFB749AB3C" Pos.Relative.x="0" Pos.Relative.y="0" Pos.Absolute.x="0" Pos.Absolute.y="2" Size.x="96" Size.y="96" Alignment.x="0" Alignment.y="0" Scale.x="1" Scale.y="1" Rotate="0"/>
           <Proxy Id="219586FA-6121-4585-9B43-94E6BFCEC0EE" Node="35899EE9-C353-49CE-80DB-0DB7B383B7DE" Fit="Expand"/>
         </Proxy>
         <Proxy Id="F681A6D2-F5C7-4E53-80B9-8B0090689575" Name="タワーブ" Show="1" Comment="">
@@ -116,7 +116,7 @@
           <Proxy Id="CAE7BB59-B10E-4CFC-8B44-6A02D63BDB02" Node="55B46F1C-81FC-4E00-9D03-7C1497ABADB3" Fit="None"/>
         </Proxy>
         <Proxy Id="475DE384-93CD-45F4-A8A3-F0C195886DC9" Name="towerb.com" Show="1" Comment="">
-          <Layout Id="48BFFA81-17D3-49E6-B157-EC2DD774A50A" Pos.Relative.x="0.5" Pos.Relative.y="1" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="276" Size.y="32" Alignment.x="0.5" Alignment.y="1" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <Layout Id="48BFFA81-17D3-49E6-B157-EC2DD774A50A" Pos.Relative.x="0.5" Pos.Relative.y="1" Pos.Absolute.x="0" Pos.Absolute.y="-2" Size.x="276" Size.y="32" Alignment.x="0.5" Alignment.y="1" Scale.x="1" Scale.y="1" Rotate="0"/>
           <Proxy Id="51644A9B-CCDE-4E57-BCA8-3EB7DB2B0745" Node="06AB49A8-690D-4645-8007-00F72285C732" Fit="None"/>
         </Proxy>
       </Container>
