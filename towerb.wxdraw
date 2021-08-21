@@ -32,7 +32,7 @@
           <Container Id="8069C03F-CEF8-446A-AAF9-AD1D1751305D">
             <Text Id="61179D02-F953-4368-848C-762C21AE8FB7" Name="Text" Show="1" Comment="">
               <Layout Id="11F73EBB-3109-4C53-A048-10F8CBCABA7C" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="384" Size.y="96.0001945495605469" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
-              <Text Id="A0C37D8E-57B5-424E-9FF2-91A2D7313010" Font="ED69B4D0-5CD6-4CB7-AC6E-FFA102902831" Color="439A650A-201A-404E-A5F0-5D7C74316337" Text="タワーブ" Alignment.x="0.5" Alignment.y="0.5" AutoSize="1"/>
+              <Text Id="A0C37D8E-57B5-424E-9FF2-91A2D7313010" Font="ED69B4D0-5CD6-4CB7-AC6E-FFA102902831" Text="タワーブ" Alignment.x="0.5" Alignment.y="0.5" AutoSize="1"/>
             </Text>
           </Container>
         </View>
@@ -42,7 +42,7 @@
           <Container Id="08FD0613-2FD2-4743-A109-3B2F07460BC1">
             <Text Id="06AB49A8-690D-4645-8007-00F72285C732" Name="Text" Show="1" Comment="">
               <Layout Id="44AF21FB-76F9-47FF-9024-947BE39E2486" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="275.8400000000000318" Size.y="32.0000648498535156" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
-              <Text Id="4D3861AE-D4D1-4A25-AFDE-D73BA9959F9C" Font="E13D3852-B4B7-47E4-9D7E-FE0C1C5C38E7" Color="439A650A-201A-404E-A5F0-5D7C74316337" Text="towerb.com" Alignment.x="0.5" Alignment.y="0.5" AutoSize="1"/>
+              <Text Id="4D3861AE-D4D1-4A25-AFDE-D73BA9959F9C" Font="E13D3852-B4B7-47E4-9D7E-FE0C1C5C38E7" Text="towerb.com" Alignment.x="0.5" Alignment.y="0.5" AutoSize="1"/>
             </Text>
           </Container>
         </View>
@@ -124,11 +124,18 @@
     <Group Id="242E9848-13DD-408B-9C7F-465819BA8ABF" Name="Export" Show="1" Comment="">
       <Layout Id="65E40203-27A3-48AF-B3CB-FB2E00E23BC4" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="256" Size.y="256" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
       <Container Id="46F605D9-247A-484A-9AFD-E0A44BA34FBB">
-        <Export Id="F9CCD3CF-A838-4333-AA3B-7E229A530C9C" Name="ExportFull" Show="1" Comment="">
+        <Export Id="F9CCD3CF-A838-4333-AA3B-7E229A530C9C" Name="LogoWhite" Show="1" Comment="">
           <Layout Id="B5C23352-0052-42D5-BB56-A5453A1627D4" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="512" Size.y="128" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
           <View Id="3B852754-9996-4152-9754-EF568AEAD6E5"/>
           <Proxy Id="0320DE69-D8D8-40A2-8F19-510F528C0106" Node="9BA351F8-2ABE-4A43-83A8-2BBE4EFE2F65" Fit="None"/>
-          <Export Id="F201274B-D6BD-4C5B-994B-63A5E036AA6D" FileName="towerb.png"/>
+          <Export Id="F201274B-D6BD-4C5B-994B-63A5E036AA6D" FileName="../jango/Assets/Jango/Image/App/towerb.png"/>
+        </Export>
+        <Export Id="E4FC9766-0AD2-4F4F-8815-EE6B0B959719" Name="LogoBlack" Show="1" Comment="">
+          <Layout Id="74FB00DF-D90D-4054-8F68-07A7ABC125D9" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="512" Size.y="128" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="E4D6DD54-F291-4E47-81E3-3231DEA5C7BE"/>
+          <Proxy Id="75DED6FD-8F83-46CC-ABB9-B3AEAE73B116" Node="9BA351F8-2ABE-4A43-83A8-2BBE4EFE2F65" Fit="None"/>
+          <Export Id="061E7274-78C2-42E4-B5C3-1919002E7A12" FileName="../../Library/Containers/com.towerb.wxdraw/Data/"/>
+          <TextColor Id="537B9DE0-5682-45D5-8155-D42D08A58A38" Color="439A650A-201A-404E-A5F0-5D7C74316337"/>
         </Export>
         <Export Id="68F1001C-ED7C-4906-ACCD-FE93226AF14F" Name="Favicon" Show="1" Comment="">
           <Layout Id="E0745DA4-BA0C-452C-8E4C-277A4CCA0CA5" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="32" Size.y="32" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
