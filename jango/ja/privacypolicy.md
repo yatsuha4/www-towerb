@@ -1,3 +1,8 @@
+%lang ja
+%title JANGO プライバシーポリシー
+%css ../jango.css
+%favicon ../jango-favicon.png
+
 # JANGO プライバシーポリシー
 
 本プライバシーポリシーは、towerbの提供するアプリケーション(以下、アプリ)「JANGO」により収集、送信されるユーザ情報とその取り扱いについて説明します。  
@@ -35,7 +40,7 @@
 
 ## 問い合わせ窓口
 
-info@towerb.com
+[mailto:info@towerb.com](info@towerb.com)
 
 ## プライバシーポリシーの変更について
 
