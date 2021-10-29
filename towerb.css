@@ -5,13 +5,13 @@ html {
 }
 h1 {
     color: white;
-    background-color: black;
+    background-color: #f80;
     margin: 0.5em 0em;
     padding: 0.1em 1em;
     text-align: center;
 }
 h2 {
-    border: solid black;
+    border: solid #f80;
     border-width: 0px 0px 1px 1em;
     margin: 0.5em 0em;
     padding: 0.1em 0.5em;
