@@ -96,6 +96,24 @@
             </Proxy>
           </Container>
         </View>
+        <View Id="1BF0A593-3267-4F4A-8A44-B939CAEE9890" Name="IconSquare" Show="1" Comment="">
+          <Layout Id="E04692F7-F9A0-419E-829A-5B99E71C89C1" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="40" Size.y="40" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="1002BE80-10F5-468F-ACAF-EBA8F5BC7DB4"/>
+          <Pen Id="2F584B75-E21B-4901-A7D1-36C0E1FA976B" Pen="7E6C9774-2846-42CE-AABE-ED83967FDE91"/>
+          <Brush Id="3D603A09-5CFE-4B70-A3A5-1D3FAFBFCFD0" Brush="56B3D5B3-5B26-4007-8EED-88667597E39C"/>
+          <TextColor Id="90086984-DEBE-450D-BCB4-FCEFCC2254F6" Color=""/>
+          <Container Id="5F5A7BA4-14F9-4C64-85FA-FEF634D117E8">
+            <Rectangle Id="AB8FC229-4067-41A1-8A2D-AEC99446FD8B" Name="Rectangle_1" Show="1" Comment="">
+              <Layout Id="494BD301-E24F-4A8A-8201-675B13C85174" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="40" Size.y="40" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Rectangle Id="4B0AE5E1-C88C-4B38-BF02-3E944727A5A6" Round="0"/>
+              <Brush Id="4D7E25C3-ADA9-467E-A4E9-7E324CC5AFB9" Brush="8E11E3DF-312E-4A70-B8DE-67EBA8659C71"/>
+            </Rectangle>
+            <Proxy Id="7F224C81-AE31-46E0-838E-4C5358525224" Name="Proxy_1" Show="1" Comment="">
+              <Layout Id="61C49A1C-B5D0-41AC-BD13-98791764EF3F" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="1" Size.x="40" Size.y="40" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+              <Proxy Id="6A3F9D84-3328-47F4-8635-5B3B992F94B3" Node="865C0861-A861-45EB-BFFD-EC6114B4F2BA" Fit="None"/>
+            </Proxy>
+          </Container>
+        </View>
       </Container>
     </Group>
     <View Id="E1A4F883-76E7-4A65-9161-43BDBC9044CA" Name="ロゴ" Show="1" Comment="">
@@ -142,6 +160,12 @@
           <View Id="DE8871FE-AE62-4ADD-AA17-B286CE797B39"/>
           <Proxy Id="1F050BC8-A82E-48A5-AB1A-85BA379B3D93" Node="35899EE9-C353-49CE-80DB-0DB7B383B7DE" Fit="Expand"/>
           <Export Id="CD999B17-0122-4B3E-80CB-1E3E01866805" FileName="towerb-favicon.png"/>
+        </Export>
+        <Export Id="9C707A24-4FF0-44E2-8CE7-E7B380018B6D" Name="GoogleDevelopper" Show="1" Comment="">
+          <Layout Id="0D12D2B5-6ED3-44AD-AC60-B79023101611" Pos.Relative.x="0.5" Pos.Relative.y="0.5" Pos.Absolute.x="0" Pos.Absolute.y="0" Size.x="512" Size.y="512" Alignment.x="0.5" Alignment.y="0.5" Scale.x="1" Scale.y="1" Rotate="0"/>
+          <View Id="FE5041D1-66C3-416D-9CC4-3A0C7A95E801"/>
+          <Proxy Id="846C7FA8-8B78-457A-A791-96708FFD0F70" Node="1BF0A593-3267-4F4A-8A44-B939CAEE9890" Fit="Expand"/>
+          <Export Id="602338D0-C3D4-44E7-AE15-40EEF7D1CAA4" FileName="towerb-square-512x512.png"/>
         </Export>
       </Container>
     </Group>

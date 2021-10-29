@@ -5,13 +5,13 @@ html {
 }
 h1 {
     border: solid #800;
-    border-width: 0px 0px 1px 1.5em;
+    border-width: 0px 0px 1px 1em;
     margin: 0.5em 0em;
     padding: 0.1em 0.5em;
 }
 h2 {
     border: solid #800;
-    border-width: 0px 0px 1px 1em;
+    border-width: 0px 0px 1px 0.5em;
     margin: 0.5em 0em;
     padding: 0.1em 0.5em;
 }
@@ -25,4 +25,7 @@ p {
 }
 a {
     word-wrap: break-word;
+}
+img {
+    max-width: 30%;
 }
