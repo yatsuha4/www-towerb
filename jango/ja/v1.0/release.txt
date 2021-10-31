@@ -1,13 +1,3 @@
-%lang ja
-%title スマートフォン向け対戦パズルゲーム「JANGO」リリースのお知らせ
-%css ../../jango.css
-%favicon ../../jango-favicon.png
-
-2021年11月1日(月)
-報道関係各位
-towerb.com
-[mailto:info@towerb.com](info@towerb.com)
-
 # スマートフォン向け対戦パズルゲーム「JANGO」をリリース
 
 個人でゲーム開発を行っているtowerb.comこと安井健太郎は、2021年10月27日(水)にスマートフォン向け対戦パズルゲーム「JANGO」をリリースしました。
@@ -19,15 +9,13 @@ towerb.com
 料金: 無料(広告あり)
 配信プラットフォーム: Android/iOS
 
-![../../jango-icon.png]
+### [Android] GooglePlayStoreダウンロードページ
 
-### \[Android\] GooglePlayStoreダウンロードページ
+https://play.google.com/store/apps/details?id=com.towerb.JANGO
 
-[https://play.google.com/store/apps/details?id=com.towerb.JANGO]
+### [iOS] AppStoreダウンロードページ
 
-### \[iOS\] AppStoreダウンロードページ
-
-[https://apps.apple.com/jp/app/jango/id1588569732]
+https://apps.apple.com/jp/app/jango/id1588569732
 
 # 「JANGO」とは？
 
@@ -37,8 +25,6 @@ JANGOは誰でも簡単に楽しめる対戦型のパズルゲームです。
 残ったピースは前に詰められ、同じピースが2つ以上並ぶと相手にダメージを与えられます。
 さらに連鎖によってより大きなダメージを与えることもできます。
 お手軽操作で連鎖の爽快感と白熱の対戦が楽しめる新しいパズルゲームをぜひ楽しんでみて下さい。
-
-![../../jango-feature.png]
 
 ## 特長
 
@@ -69,17 +55,3 @@ JANGOは誰でも簡単に楽しめる対戦型のパズルゲームです。
 
 コインを使うことでスコアを強化することはできますが、勝敗に影響がある要素は強化できません。
 勝ち負けはプレイヤーの力と少しの運で決まります。
-
-## スクリーンショット
-
-[image/jango-screenshot-battle.png](![image/jango-screenshot-battle.png]) \
-[image/jango-screenshot-title.png](![image/jango-screenshot-title.png]) \
-[image/jango-screenshot-single.png](![image/jango-screenshot-single.png])
-[image/jango-screenshot-talk.png](![image/jango-screenshot-talk.png]) \
-[image/jango-screenshot-lobby.png](![image/jango-screenshot-lobby.png]) \
-[image/jango-screenshot-ranking.png](![image/jango-screenshot-ranking.png])
-[image/jango-screenshot-shop.png](![image/jango-screenshot-shop.png])
-
-## プロモーション動画(YouTube)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxVtVf3Dcl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
