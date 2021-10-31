@@ -26,8 +26,11 @@ p {
 a {
     word-wrap: break-word;
 }
-img {
+img[id^='jango-screenshot-'] {
     max-width: 30%;
+}
+#jango-feature {
+    width: 512px;
 }
 #jango-icon {
     width: 114px;

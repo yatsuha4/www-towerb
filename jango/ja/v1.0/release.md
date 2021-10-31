@@ -38,7 +38,7 @@ JANGOは誰でも簡単に楽しめる対戦型のパズルゲームです。
 さらに連鎖によってより大きなダメージを与えることもできます。
 お手軽操作で連鎖の爽快感と白熱の対戦が楽しめる新しいパズルゲームをぜひ楽しんでみて下さい。
 
-[../../jango-feature.png](![../../jango-feature.png])
+![../../jango-feature.png]
 
 ## 特長
 
@@ -50,7 +50,7 @@ JANGOは誰でも簡単に楽しめる対戦型のパズルゲームです。
 
 ### オンライン対戦可能
 
-オンラインで世界中のプレイヤーや身近な友達と対戦することができます。
+オンラインで世界中のプレイヤーや近くの友達と対戦することができます。
 またランキングもあるので、スコアやレーティングも競えます。
 
 ### 1人でも楽しめる
@@ -66,18 +66,18 @@ JANGOは誰でも簡単に楽しめる対戦型のパズルゲームです。
 
 ### フェアな対戦
 
-コインを貯めることでスコアを強化することはできますが、勝敗に影響がある要素は強化できません。
+コインを使うことでスコアを強化することはできますが、勝敗に影響がある要素は強化できません。
 勝ち負けはプレイヤーの力と少しの運で決まります。
 
 ## スクリーンショット
 
-[image/jango-battle.png](![image/jango-battle.png]) \
-[image/jango-title.png](![image/jango-title.png]) \
-[image/jango-single.png](![image/jango-single.png])
-[image/jango-talk.png](![image/jango-talk.png]) \
-[image/jango-lobby.png](![image/jango-lobby.png]) \
-[image/jango-ranking.png](![image/jango-ranking.png])
-[image/jango-shop.png](![image/jango-shop.png])
+[image/jango-screenshot-battle.png](![image/jango-screenshot-battle.png]) \
+[image/jango-screenshot-title.png](![image/jango-screenshot-title.png]) \
+[image/jango-screenshot-single.png](![image/jango-screenshot-single.png])
+[image/jango-screenshot-talk.png](![image/jango-screenshot-talk.png]) \
+[image/jango-screenshot-lobby.png](![image/jango-screenshot-lobby.png]) \
+[image/jango-screenshot-ranking.png](![image/jango-screenshot-ranking.png])
+[image/jango-screenshot-shop.png](![image/jango-screenshot-shop.png])
 
 ## プロモーション動画(YouTube)
 
