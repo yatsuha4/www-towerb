@@ -44,6 +44,9 @@ MOSAIQは新しくてユニークな、スマートフォン用に作られた�
 * ランキングでは世界中のユーザーとスコアを競えます。
 * レベルごとに課題があり、目標をもって長く楽しむことができます。
 
+[specification.html](仕様詳細)
+
 # プロモーション動画(Youtube)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvdKaQM4Z_I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
