@@ -29,3 +29,13 @@ img {
 a {
     word-wrap: break-word;
 }
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: solid 1px #ccc;
+    padding: 0.2em 0.5em;
+}
+tr:nth-child(odd) {
+    background-color: #eee;
+}
