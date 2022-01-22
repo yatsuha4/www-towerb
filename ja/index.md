@@ -4,8 +4,8 @@
 
 ![../towerb.png]
 
-<a class="twitter-timeline" data-width="640" data-height="480" href="https://twitter.com/towerb_info?ref_src=twsrc%5Etfw">Tweets by towerb_info</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/towerb_info?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @towerb_info</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-lang="ja" data-width="640" data-height="480" href="https://twitter.com/towerb_info?ref_src=twsrc%5Etfw">Tweets by towerb_info</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/towerb_info?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-lang="ja" data-show-count="false">Follow @towerb_info</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # GAMES
 
