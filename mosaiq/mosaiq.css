@@ -2,6 +2,7 @@ html {
     font-family: sans-serif;
     color: black;
     background-color: white;
+    padding: 0em 0.5em;
 }
 h1 {
     border: solid blue;
@@ -16,11 +17,11 @@ h2 {
     padding: 0.1em 0.5em;
 }
 h3 {
-    margin: 0.2em 0em;
-    padding: 0.2em 0em;
+    margin: 0.5em 0em;
+    padding: 0.2em 0.1em;
 }
 p {
-    margin: 0.5em 0em;
+    margin: 1em 0em;
     padding: 0em;
 }
 img {
@@ -31,6 +32,9 @@ a {
 }
 table {
     border-collapse: collapse;
+    margin: 0.5em 0em;
+}
+tr {
 }
 th, td {
     border: solid 1px #ccc;
@@ -38,4 +42,10 @@ th, td {
 }
 tr:nth-child(odd) {
     background-color: #eee;
+}
+pre {
+    background-color: #eee;
+    padding: 1em;
+    margin: 0.5em 0em;
+    border-radius: 0.5em;
 }
