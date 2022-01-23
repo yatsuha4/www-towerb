@@ -1,5 +1,6 @@
 %lang ja
 %title MOSAIQ - 回転色合わせパズル
+%base_css ../../towerb.css
 %css ../mosaiq.css
 %favicon ../mosaiq-favicon.png
 
@@ -13,7 +14,7 @@ MOSAIQは新しくてユニークな、スマートフォン用に作られた�
 一度に多くのピースをつなげたり、連鎖で消すことで高得点を取ることができます。
 ぜひこの新しいゲームを遊んでみて下さい。
 
-# 概要
+## 概要
 
 タイトル: MOSAIQ(モザイク)
 ジャンル: パズルゲーム
@@ -25,7 +26,7 @@ MOSAIQは新しくてユニークな、スマートフォン用に作られた�
 [https://play.google.com/store/apps/details?id=com.towerb.roco](![../../ja/google-play-badge.png]) \
 [https://apps.apple.com/jp/app/mosaiq/id1532791677](![../../ja/app-store-badge-jp.png])
 
-# ゲーム説明
+## ゲーム説明
 
 [mosaiq-game-ja.png](![mosaiq-game-ja.png]) \
 [mosaiq-instruction-1-ja.png](![mosaiq-instruction-1-ja.png]) \
@@ -44,9 +45,11 @@ MOSAIQは新しくてユニークな、スマートフォン用に作られた�
 * ランキングでは世界中のユーザーとスコアを競えます。
 * レベルごとに課題があり、目標をもって長く楽しむことができます。
 
-[specification.html](仕様詳細)
-
-# プロモーション動画(Youtube)
+## プロモーション動画(Youtube)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvdKaQM4Z_I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 情報
+
+* [specification.html](仕様詳細)
+* [privacypolicy.html](プライバシーポリシー)

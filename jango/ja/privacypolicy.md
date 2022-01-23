@@ -1,5 +1,6 @@
 %lang ja
 %title JANGO プライバシーポリシー
+%base_css ../../towerb.css
 %css ../jango.css
 %favicon ../jango-favicon.png
 

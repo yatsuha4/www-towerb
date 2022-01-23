@@ -1,5 +1,6 @@
 %lang ja
 %title スマートフォン向け対戦パズルゲーム「JANGO」リリースのお知らせ
+%base_css ../../../towerb.css
 %css ../../jango.css
 %favicon ../../jango-favicon.png
 

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+  <meta charset="utf-8"/>
+  <title>JANGO - 仕様詳細</title>
+  <link rel="stylesheet" href="../../towerb.css"/>
+  <link rel="stylesheet" href="../jango.css"/>
+  <link rel="icon" type="image/png" href="../jango-favicon.png"/>
+</head>
+<body>
+<h1>仕様詳細</h1><h2>アバター</h2><table>
+<tr><th>アバター</th><th>チェイン</th><th>コンボ</th><th>ボム</th><th>ボムチャージ</th><th>積極性</th><th>消極性</th><th>特長</th></tr><tr><td>シン</td><td>20</td><td>30</td><td>50</td><td>10</td><td>60</td><td>40</td><td>標準型</td></tr><tr><td>アカリ</td><td>40</td><td>20</td><td>40</td><td>10</td><td>70</td><td>30</td><td>基礎攻撃力が高い</td></tr><tr><td>リカ</td><td>10</td><td>40</td><td>50</td><td>10</td><td>50</td><td>50</td><td>コンボにより大ダメージが狙える</td></tr><tr><td>カモハシ</td><td>20</td><td>20</td><td>80</td><td>5</td><td>40</td><td>60</td><td>ボム特化</td></tr></table>
+<h2>ポイント</h2><ul>
+<li>0から始まり加減算される</li><li>1000に達した方が勝ち</li><li>15ターン以降はポイントが倍になる</li><li><strong>チェイン</strong>, <strong>コンボ</strong>, <strong>ボム</strong> はアバターごとの固定値</li></ul>
+<h3>ボムなし</h3><pre>
+( <strong>チェイン</strong> + <strong>コンボ</strong> * ( コンボ数 - 1 ) ) * ( ピース数 - 1 )<br/></pre>
+<h4>シン</h4><table>
+<tr><td></td><td>2個</td><td>3個</td><td>4個</td><td>5個</td></tr><tr><td>x1</td><td>20</td><td>40</td><td>60</td><td>80</td></tr><tr><td>x2</td><td>50</td><td>100</td><td>150</td><td>200</td></tr><tr><td>x3</td><td>80</td><td>160</td><td>240</td><td>320</td></tr><tr><td>x4</td><td>110</td><td>220</td><td>330</td><td>440</td></tr><tr><td>x5</td><td>140</td><td>280</td><td>420</td><td>560</td></tr></table>
+<h4>アカリ</h4><table>
+<tr><td></td><td>2個</td><td>3個</td><td>4個</td><td>5個</td></tr><tr><td>x1</td><td>40</td><td>80</td><td>120</td><td>160</td></tr><tr><td>x2</td><td>60</td><td>120</td><td>180</td><td>240</td></tr><tr><td>x3</td><td>80</td><td>160</td><td>240</td><td>320</td></tr><tr><td>x4</td><td>100</td><td>200</td><td>300</td><td>400</td></tr><tr><td>x5</td><td>120</td><td>240</td><td>360</td><td>480</td></tr></table>
+<h4>リカ</h4><table>
+<tr><td></td><td>2個</td><td>3個</td><td>4個</td><td>5個</td></tr><tr><td>x1</td><td>10</td><td>20</td><td>30</td><td>40</td></tr><tr><td>x2</td><td>50</td><td>100</td><td>150</td><td>200</td></tr><tr><td>x3</td><td>90</td><td>180</td><td>270</td><td>360</td></tr><tr><td>x4</td><td>130</td><td>260</td><td>390</td><td>520</td></tr><tr><td>x5</td><td>170</td><td>340</td><td>510</td><td>680</td></tr></table>
+<h4>カモハシ</h4><table>
+<tr><td></td><td>2個</td><td>3個</td><td>4個</td><td>5個</td></tr><tr><td>x1</td><td>20</td><td>40</td><td>60</td><td>80</td></tr><tr><td>x2</td><td>40</td><td>80</td><td>120</td><td>160</td></tr><tr><td>x3</td><td>60</td><td>120</td><td>180</td><td>240</td></tr><tr><td>x4</td><td>80</td><td>160</td><td>240</td><td>320</td></tr><tr><td>x5</td><td>100</td><td>200</td><td>300</td><td>400</td></tr></table>
+<h3>ボムあり</h3><pre>
+<strong>ボム</strong> * ピース数<br/></pre>
+<h2>スコア</h2><ul>
+<li><strong>チェイン</strong>, <strong>コンボ</strong>, <strong>ボム</strong> はそれぞれショップで強化した値</li></ul>
+<h3>ボムなし</h3><pre>
+( <strong>チェイン</strong> + <strong>コンボ</strong> * ( コンボ数 - 1 ) ) * ( ピース数 - 1 )<br/></pre>
+<h3>ボムあり</h3><pre>
+( <strong>ボム</strong> + <strong>コンボ</strong> * ( コンボ数 - 1 ) ) * ボム数 * ピース数<br/></pre>
+<h3>デュエル</h3><ul>
+<li>10点から始まり、勝つごとに倍(10, 20, 40, 80, 160)</li><li>ボムに勝つと+100点</li></ul>
+
+</body>
+</html>

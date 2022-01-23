@@ -2,6 +2,7 @@ html {
     font-family: sans-serif;
     color: black;
     background-color: white;
+    padding: 0em 0.5em;
 }
 h1 {
     color: white;
@@ -24,6 +25,29 @@ p {
     margin: 0em;
     padding: 0em;
 }
+table {
+    border-collapse: collapse;
+    margin: 0.5em 0em;
+}
+tr {
+}
+th, td {
+    border: solid 1px #ccc;
+    padding: 0.2em 0.5em;
+}
+tr:nth-child(odd) {
+    background-color: #eee;
+}
+pre {
+    background-color: #eee;
+    padding: 1em;
+    margin: 0.5em 0em;
+    border-radius: 0.5em;
+}
 a {
+    word-wrap: break-word;
     color: black;
+}
+strong {
+    color: red;
 }

@@ -1,3 +1,9 @@
+%lang ja
+%title MOSAIQ プライバシーポリシー
+%base_css ../../towerb.css
+%css ../mosaiq.css
+%favicon ../mosaiq-favicon.png
+
 # MOSAIQ プライバシーポリシー
 
 本プライバシーポリシーは、towerbの提供するアプリケーション(以下、アプリ)「MOSAIQ」により収集、送信されるユーザ情報とその取り扱いについて説明します。  

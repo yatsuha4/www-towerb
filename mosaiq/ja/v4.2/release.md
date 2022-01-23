@@ -1,5 +1,6 @@
 %lang ja
 %title スマートフォン向けパズルゲーム「MOSAIQ」最新アップデート公開のお知らせ
+%base_css ../../../towerb.css
 %css ../../mosaiq.css
 %favicon ../../mosaiq-favicon.png
 

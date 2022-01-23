@@ -1,5 +1,6 @@
 %lang ja
-%title MOSAIQ - 仕様詳細
+%title MOSAIQ 仕様詳細
+%base_css ../../towerb.css
 %css ../mosaiq.css
 %favicon ../mosaiq-favicon.png
 

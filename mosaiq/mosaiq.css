@@ -1,51 +1,9 @@
-html {
-    font-family: sans-serif;
-    color: black;
-    background-color: white;
-    padding: 0em 0.5em;
-}
 h1 {
-    border: solid blue;
-    border-width: 0px 0px 1px 1em;
-    margin: 0.5em 0em;
-    padding: 0.1em 0.5em;
+    background-color: #00f;
 }
 h2 {
-    border: solid blue;
-    border-width: 0px 0px 1px 0.5em;
-    margin: 0.5em 0em;
-    padding: 0.1em 0.5em;
-}
-h3 {
-    margin: 0.5em 0em;
-    padding: 0.2em 0.1em;
-}
-p {
-    margin: 1em 0em;
-    padding: 0em;
+    border-color: #00f;
 }
 img {
     max-width: 30%;
-}
-a {
-    word-wrap: break-word;
-}
-table {
-    border-collapse: collapse;
-    margin: 0.5em 0em;
-}
-tr {
-}
-th, td {
-    border: solid 1px #ccc;
-    padding: 0.2em 0.5em;
-}
-tr:nth-child(odd) {
-    background-color: #eee;
-}
-pre {
-    background-color: #eee;
-    padding: 1em;
-    margin: 0.5em 0em;
-    border-radius: 0.5em;
 }
