@@ -51,3 +51,6 @@ a {
 strong {
     color: red;
 }
+* {
+    text-size-adjust: none;
+}
